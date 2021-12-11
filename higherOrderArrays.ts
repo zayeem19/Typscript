@@ -22,7 +22,7 @@ const companies: CompanyArray[] = [
 ];
 
 //ForEach
-// companies.forEach((company) => console.log(company));
+companies.forEach((company) => console.log(company));
 
 //Filter
 const retail = companies.filter(
